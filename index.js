@@ -13,3 +13,7 @@ function happyCustomHolidayTo(holiday,person){
 
   return `Happy ${holiday}, ${person}!`
 }
+
+function holidayCountDown(holiday,numDay){
+return  `its's ${numDay} days until ${holiday}!`
+}

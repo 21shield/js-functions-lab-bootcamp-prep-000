@@ -5,7 +5,6 @@ function happyHolidays(){
 }
 
 function happyCustomHolidayTo(holiday,person){
-  let holiday = holi
-  let person = name
-  return `Happy ${holi}, ${name}`
+
+  return `Happy ${holiday}, ${person}`
 }

@@ -1,7 +1,7 @@
 // write your code below!
-function happyHolidays(name){
-var person = name
-  return `Happy holidays, ${person}!`
+function happyHolidays(){
+
+  return `Happy holidays!`
 }
 
 function happyCustomHolidayTo(holiday,person){
